@@ -1,4 +1,4 @@
-name := """4ChanThreadDLer-sbt"""
+name := """4ChanThreadDLer"""
 
 version := "1.0"
 

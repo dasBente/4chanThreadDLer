@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes
+output dir -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes
 compile options:
 0 items
 javac options:
@@ -20,27 +20,28 @@ name hashing:
 0 -> true
 products:
 14 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$1.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1$$anonfun$2.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2$$anon$3.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4$$anonfun$1.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5$$anonfun$2.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$6.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$.class
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$1.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1$$anonfun$2.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2$$anon$3.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4$$anonfun$1.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5$$anonfun$2.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$6.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp.class
 binary dependencies:
-5 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/.ivy2/cache/org.scala-lang/scala-swing/jars/scala-swing-2.11.0-M7.jar
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+6 items
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/.ivy2/cache/org.scala-lang/scala-swing/jars/scala-swing-2.11.0-M7.jar
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -51,7 +52,7 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 1 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> /home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -60,186 +61,189 @@ inheritance external dependencies:
 0 items
 class names:
 14 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer$$anonfun$1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer$$anonfun$plunder$1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer$$anonfun$plunder$1$$anonfun$2
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$1$$anon$2
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$1$$anon$2$$anon$3
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$4
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$4$$anonfun$1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$5
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$5$$anonfun$2
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$6
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer$$anonfun$1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer$$anonfun$plunder$1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe.dasbente.scala.Plunderer$$anonfun$plunder$1$$anonfun$2
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$1$$anon$2
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$1$$anon$2$$anon$3
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$4
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$4$$anonfun$1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$5
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$5$$anonfun$2
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe.dasbente.scala.gui.MainApp$$anon$6
 used names:
 118 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> !!
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> !=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> #>
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> +
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> <init>
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> AnyRef
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Codec
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> File
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Plunderer
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Predef
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Set
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Source
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> String
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> URL
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Unit
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> apply
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> augmentString
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> contains
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> dasbente
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> dledImages
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> dledImages_=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> fallbackSystemCodec
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> filename
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> filter
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> foreach
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> fromURL
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> html
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> imageTags
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> io
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> java
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> l
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> last
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> link
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> mkString
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> net
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> package
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> plunder
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> println
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> process
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> refArrayOps
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> savedir
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> scala
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> split
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> startsWith
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> substring
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> sys
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> takeWhile
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> threadurl
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> toList
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> toPath
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> unary_!
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> urlToProcess
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> $anon
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> +=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> <init>
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> ==
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> A1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Approve
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> B1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> BorderPanel
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Button
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Center
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> DirectoriesOnly
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> File
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> FileChooser
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Function1
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Horizontal
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Label
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> MainApp
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> MainFrame
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> None
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> North
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Option
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Orientation
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Plunderer
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Position
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Predef
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Result
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> SelectionMode
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Separator
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> SimpleSwingApplication
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> South
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> TextField
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> apply
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> asInstanceOf
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> btnPlunder
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> btnSaveTo
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> chooseDirectory
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> chooser
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> contents_=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> dasbente
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> event
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> file
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> fileSelectionMode_=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> gui
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> io
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> isInstanceOf
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> java
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> lastFile
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> lastFile_=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> layout
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> listenTo
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> println
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> reactions
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> res
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> scala
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> selectedFile
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> showOpenDialog
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> swing
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> temp
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> text
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> tfURL
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> title_=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> unchecked
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> update
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> x
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> !!
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> !=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> #>
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> +
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> <init>
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> AnyRef
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Codec
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> File
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Plunderer
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Predef
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Set
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Source
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> String
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> URL
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> Unit
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> apply
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> augmentString
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> contains
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> dasbente
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> dledImages
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> dledImages_=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> fallbackSystemCodec
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> filename
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> filter
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> foreach
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> fromURL
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> html
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> imageTags
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> io
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> java
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> l
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> last
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> link
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> mkString
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> moe
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> net
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> package
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> plunder
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> println
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> process
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> refArrayOps
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> savedir
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> scala
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> split
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> startsWith
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> substring
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> sys
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> takeWhile
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> threadurl
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> toList
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> toPath
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> unary_!
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> urlToProcess
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> $anon
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> +=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> <init>
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> ==
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> A1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Approve
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> B1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> BorderPanel
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Button
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Center
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> DirectoriesOnly
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> File
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> FileChooser
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Function1
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Horizontal
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Label
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> MainApp
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> MainFrame
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> None
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> North
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Option
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Orientation
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Plunderer
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Position
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Predef
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Result
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> SelectionMode
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> Separator
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> SimpleSwingApplication
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> South
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> TextField
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> apply
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> asInstanceOf
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> btnPlunder
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> btnSaveTo
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> chooseDirectory
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> chooser
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> contents_=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> dasbente
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> event
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> file
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> fileSelectionMode_=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> gui
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> io
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> isInstanceOf
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> java
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> lastFile
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> lastFile_=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> layout
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> listenTo
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> moe
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> println
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> reactions
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> res
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> scala
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> selectedFile
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> showOpenDialog
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> swing
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> temp
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> text
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> tfURL
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> title_=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> unchecked
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> update
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> x
 product stamps:
 14 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$1.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1$$anonfun$2.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2$$anon$3.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4$$anonfun$1.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5$$anonfun$2.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$6.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$.class -> lastModified(1444175007000)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp.class -> lastModified(1444175007000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$1.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1$$anonfun$2.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer$$anonfun$plunder$1.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2$$anon$3.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1$$anon$2.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$1.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4$$anonfun$1.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$4.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5$$anonfun$2.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$5.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$$anon$6.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp$.class -> lastModified(1444223820000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/gui/MainApp.class -> lastModified(1444223820000)
 source stamps:
 2 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> hash(01d014babf8ad74a45a0ed6efb77b5fee78c9d8e)
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> hash(4714cc86bfd38da1cec88a57a42c89465d237522)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> hash(01d014babf8ad74a45a0ed6efb77b5fee78c9d8e)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> hash(4714cc86bfd38da1cec88a57a42c89465d237522)
 binary stamps:
-3 items
+4 items
 /home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
 /home/dasbente/.ivy2/cache/org.scala-lang/scala-swing/jars/scala-swing-2.11.0-M7.jar -> lastModified(1396784213000)
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class -> lastModified(1444223820000)
 /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> lastModified(1440355591000)
 class names:
-3 items
-/home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractPartialFunction
-/home/dasbente/.ivy2/cache/org.scala-lang/scala-swing/jars/scala-swing-2.11.0-M7.jar -> scala.swing.Button
+4 items
+/home/dasbente/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+/home/dasbente/.ivy2/cache/org.scala-lang/scala-swing/jars/scala-swing-2.11.0-M7.jar -> scala.swing.BorderPanel
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/target/scala-2.11/classes/moe/dasbente/scala/Plunderer.class -> moe.dasbente.scala.Plunderer
 /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 2 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA3sqreAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGfX4sR0AAZub3RpZnlzcQB+AAxJvhCzdAAEd2FpdHNxAH4ADI5Em110AA0kYXNJbnN0YW5jZU9mc3EAfgAMs3Q3pXQABmVxdWFsc3NxAH4ADFCLa7h0AAxhc0luc3RhbmNlT2ZzcQB+AAztjP7AdAAMc3luY2hyb25pemVkc3EAfgAMZKl8MXQADSRpc0luc3RhbmNlT2ZzcQB+AAyFopMWdAAJbm90aWZ5QWxsc3EAfgAMOhg4KXQAB3BsdW5kZXJzcQB+AAwjIp5HdAAMaXNJbnN0YW5jZU9mc3EAfgAMjV7bUXQABjxpbml0PnNxAH4ADPkBiz90AAI9PXNxAH4ADPGpLwx0AAVjbG9uZXNxAH4ADOXEoy50AAlQbHVuZGVyZXJzcQB+AAzhwqgTdAAIdG9TdHJpbmdzcQB+AAyOwSREdAAJdGhyZWFkdXJsc3EAfgAMe6a7jXQAAiE9c3EAfgAMjrA+inQACmRsZWRJbWFnZXNzcQB+AAzWSsCfdAAIZ2V0Q2xhc3NzcQB+AAz8kAqEdAACbmVzcQB+AAxLZxxGdAACZXFzcQB+AAx7qHt7dAAHc2F2ZWRpcnNxAH4ADNGRH+V0AAIjI3NxAH4ADKQZs4J0AAhmaW5hbGl6ZXNxAH4ADEI5ov90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxtb2UuZGFzYmVudGUuc2NhbGEuUGx1bmRlcmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBqc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADG1vZS5kYXNiZW50ZXNxAH4Al3QAEm1vZS5kYXNiZW50ZS5zY2FsYXNxAH4Al3QAA21vZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUD+Jwk91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL2hvbWUvZGFzYmVudGUvRG9rdW1lbnRlL0luZm9ybWF0aWsvU2NhbGEvNENoYW5UaHJlYWRETGVyLXNidC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUAdAUur+K10pFoO1u+3e1/ueMnY4=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBq0RQJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDCJIX10AAZub3RpZnlzcQB+AAxSmSyddAAEd2FpdHNxAH4ADLJzxFV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMw7DKHHQACGxhc3RGaWxlc3EAfgAM4QrJ93QABmVxdWFsc3NxAH4ADN+sXo90ABdyZXNvdXJjZUZyb21DbGFzc2xvYWRlcnNxAH4ADEwnZjV0AAhsaXN0ZW5Ub3NxAH4ADIpBN2x0AAlyZWFjdGlvbnNzcQB+AAxxlaeodAAHc3RhcnR1cHNxAH4ADNAnMI90AAxhc0luc3RhbmNlT2ZzcQB+AAzWxmHcdAAMc3luY2hyb25pemVkc3EAfgAMYYDjNnQACWJ0blNhdmVUb3NxAH4ADFFuTwd0AA0kaXNJbnN0YW5jZU9mc3EAfgAM6m2iUXQAB01haW5BcHBzcQB+AAz2Mpk3dAAEbWFpbnNxAH4ADIwtNe90AAlub3RpZnlBbGxzcQB+AAzYQYGWdAAEcXVpdHNxAH4ADO5qpwJ0AAxpc0luc3RhbmNlT2ZzcQB+AAzd2rnQdAAIc2h1dGRvd25zcQB+AAz4T7bcdAAGZGVhZlRvc3EAfgAMR/UKiXQAAj09c3EAfgAMhMbn8HQABWNsb25lc3EAfgAMfynx0XQAD2Nob29zZURpcmVjdG9yeXNxAH4ADLZida10AAV0ZlVSTHNxAH4ADAh7KHV0AApidG5QbHVuZGVyc3EAfgAMVLNXQXQACHRvU3RyaW5nc3EAfgAMK/een3QAAiE9c3EAfgAMcoo5YnQACGdldENsYXNzc3EAfgAMNnqNg3QAGXJlc291cmNlRnJvbVVzZXJEaXJlY3RvcnlzcQB+AAySVRoxdAACbmVzcQB+AAyPbnQBdAADdG9wc3EAfgAM2WMfTHQAAmVxc3EAfgAMQ2WV4HQAAiMjc3EAfgAMi5k2a3QACGZpbmFsaXplc3EAfgAMDTvqFXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHm1vZS5kYXNiZW50ZS5zY2FsYS5ndWkuTWFpbkFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHUAcHNxAH4AenNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBdTAAJaW5oZXJpdGVkcQB+AF1MAAdwYXJlbnRzcQB+AF14cQB+AH5zcQB+AHUAcHNxAH4AenVxAH4AWAAAAABzcQB+AHUAcHNxAH4AenVxAH4AWAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AXnEAfgBndXEAfgBoAAAAAHNxAH4AagBxAH4AK3VxAH4AbQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB9dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHB0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AH1zcQB+AJF0AAVBcnJheXEAfgCXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJF0AAZTdHJpbmdzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEamF2YXNxAH4AnXQABGxhbmdxAH4AonNxAH4AdQBwc3EAfgB6dXEAfgC2AAAABXNxAH4AkXQAFlNpbXBsZVN3aW5nQXBwbGljYXRpb25zcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AKBzcQB+AJ10AAVzd2luZ3EAfgCic3EAfgCRdAAQU3dpbmdBcHBsaWNhdGlvbnEAfgDGc3EAfgCRdAAHUmVhY3RvcnEAfgDGc3EAfgCRdAAGT2JqZWN0cQB+ALpzcQB+AJF0AANBbnlxAH4Al3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADG1vZS5kYXNiZW50ZXNxAH4A1nQAEm1vZS5kYXNiZW50ZS5zY2FsYXNxAH4A1nQAA21vZXNxAH4A1nQAFm1vZS5kYXNiZW50ZS5zY2FsYS5ndWlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVA/icJPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVy9ob21lL2Rhc2JlbnRlL0Rva3VtZW50ZS9JbmZvcm1hdGlrL1NjYWxhLzRDaGFuVGhyZWFkRExlci1zYnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEcUzIa/042hzsiKV6QsiUZdI3Ui
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA3sqreAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGfX4sR0AAZub3RpZnlzcQB+AAxJvhCzdAAEd2FpdHNxAH4ADI5Em110AA0kYXNJbnN0YW5jZU9mc3EAfgAMs3Q3pXQABmVxdWFsc3NxAH4ADFCLa7h0AAxhc0luc3RhbmNlT2ZzcQB+AAztjP7AdAAMc3luY2hyb25pemVkc3EAfgAMZKl8MXQADSRpc0luc3RhbmNlT2ZzcQB+AAyFopMWdAAJbm90aWZ5QWxsc3EAfgAMOhg4KXQAB3BsdW5kZXJzcQB+AAwjIp5HdAAMaXNJbnN0YW5jZU9mc3EAfgAMjV7bUXQABjxpbml0PnNxAH4ADPkBiz90AAI9PXNxAH4ADPGpLwx0AAVjbG9uZXNxAH4ADOXEoy50AAlQbHVuZGVyZXJzcQB+AAzhwqgTdAAIdG9TdHJpbmdzcQB+AAyOwSREdAAJdGhyZWFkdXJsc3EAfgAMe6a7jXQAAiE9c3EAfgAMjrA+inQACmRsZWRJbWFnZXNzcQB+AAzWSsCfdAAIZ2V0Q2xhc3NzcQB+AAz8kAqEdAACbmVzcQB+AAxLZxxGdAACZXFzcQB+AAx7qHt7dAAHc2F2ZWRpcnNxAH4ADNGRH+V0AAIjI3NxAH4ADKQZs4J0AAhmaW5hbGl6ZXNxAH4ADEI5ov90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxtb2UuZGFzYmVudGUuc2NhbGEuUGx1bmRlcmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBqc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEQAAAAAc3EAfgBhAHBzcQB+AGZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADG1vZS5kYXNiZW50ZXNxAH4Al3QAEm1vZS5kYXNiZW50ZS5zY2FsYXNxAH4Al3QAA21vZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEJylyx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABXL2hvbWUvZGFzYmVudGUvRG9rdW1lbnRlL0luZm9ybWF0aWsvU2NhbGEvZ2l0LzRjaGFuVGhyZWFkRExlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUAdAUur+K10pFoO1u+3e1/ueMnY4=
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBq0RQJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDCJIX10AAZub3RpZnlzcQB+AAxSmSyddAAEd2FpdHNxAH4ADLJzxFV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMw7DKHHQACGxhc3RGaWxlc3EAfgAM4QrJ93QABmVxdWFsc3NxAH4ADN+sXo90ABdyZXNvdXJjZUZyb21DbGFzc2xvYWRlcnNxAH4ADEwnZjV0AAhsaXN0ZW5Ub3NxAH4ADIpBN2x0AAlyZWFjdGlvbnNzcQB+AAxxlaeodAAHc3RhcnR1cHNxAH4ADNAnMI90AAxhc0luc3RhbmNlT2ZzcQB+AAzWxmHcdAAMc3luY2hyb25pemVkc3EAfgAMYYDjNnQACWJ0blNhdmVUb3NxAH4ADFFuTwd0AA0kaXNJbnN0YW5jZU9mc3EAfgAM6m2iUXQAB01haW5BcHBzcQB+AAz2Mpk3dAAEbWFpbnNxAH4ADIwtNe90AAlub3RpZnlBbGxzcQB+AAzYQYGWdAAEcXVpdHNxAH4ADO5qpwJ0AAxpc0luc3RhbmNlT2ZzcQB+AAzd2rnQdAAIc2h1dGRvd25zcQB+AAz4T7bcdAAGZGVhZlRvc3EAfgAMR/UKiXQAAj09c3EAfgAMhMbn8HQABWNsb25lc3EAfgAMfynx0XQAD2Nob29zZURpcmVjdG9yeXNxAH4ADLZida10AAV0ZlVSTHNxAH4ADAh7KHV0AApidG5QbHVuZGVyc3EAfgAMVLNXQXQACHRvU3RyaW5nc3EAfgAMK/een3QAAiE9c3EAfgAMcoo5YnQACGdldENsYXNzc3EAfgAMNnqNg3QAGXJlc291cmNlRnJvbVVzZXJEaXJlY3RvcnlzcQB+AAySVRoxdAACbmVzcQB+AAyPbnQBdAADdG9wc3EAfgAM2WMfTHQAAmVxc3EAfgAMQ2WV4HQAAiMjc3EAfgAMi5k2a3QACGZpbmFsaXplc3EAfgAMDTvqFXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHm1vZS5kYXNiZW50ZS5zY2FsYS5ndWkuTWFpbkFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHUAcHNxAH4AenNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBdTAAJaW5oZXJpdGVkcQB+AF1MAAdwYXJlbnRzcQB+AF14cQB+AH5zcQB+AHUAcHNxAH4AenVxAH4AWAAAAABzcQB+AHUAcHNxAH4AenVxAH4AWAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AXnEAfgBndXEAfgBoAAAAAHNxAH4AagBxAH4AK3VxAH4AbQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB9dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AHB0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AH1zcQB+AJF0AAVBcnJheXEAfgCXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJF0AAZTdHJpbmdzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEamF2YXNxAH4AnXQABGxhbmdxAH4AonNxAH4AdQBwc3EAfgB6dXEAfgC2AAAABXNxAH4AkXQAFlNpbXBsZVN3aW5nQXBwbGljYXRpb25zcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AKBzcQB+AJ10AAVzd2luZ3EAfgCic3EAfgCRdAAQU3dpbmdBcHBsaWNhdGlvbnEAfgDGc3EAfgCRdAAHUmVhY3RvcnEAfgDGc3EAfgCRdAAGT2JqZWN0cQB+ALpzcQB+AJF0AANBbnlxAH4Al3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADG1vZS5kYXNiZW50ZXNxAH4A1nQAEm1vZS5kYXNiZW50ZS5zY2FsYXNxAH4A1nQAA21vZXNxAH4A1nQAFm1vZS5kYXNiZW50ZS5zY2FsYS5ndWlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVBCcpcsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVy9ob21lL2Rhc2JlbnRlL0Rva3VtZW50ZS9JbmZvcm1hdGlrL1NjYWxhL2dpdC80Y2hhblRocmVhZERMZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEcUzIa/042hzsiKV6QsiUZdI3Ui
 external apis:
 0 items
 source infos:
 2 items
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/Plunderer.scala -> 
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/Plunderer.scala -> 
 AAAAAAAAAAA=
-/home/dasbente/Dokumente/Informatik/Scala/4ChanThreadDLer-sbt/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> 
+/home/dasbente/Dokumente/Informatik/Scala/git/4chanThreadDLer/src/main/scala/moe/dasbente/scala/gui/MainApp.scala -> 
 AAAAAAAAAAA=
 compilations:
-3 items
+4 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUD+HC1R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2Rhc2JlbnRlL0Rva3VtZW50ZS9JbmZvcm1hdGlrL1NjYWxhLzRDaGFuVGhyZWFkRExlci1zYnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUD+IMVF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2Rhc2JlbnRlL0Rva3VtZW50ZS9JbmZvcm1hdGlrL1NjYWxhLzRDaGFuVGhyZWFkRExlci1zYnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
 2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUD+Jwk91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2Rhc2JlbnRlL0Rva3VtZW50ZS9JbmZvcm1hdGlrL1NjYWxhLzRDaGFuVGhyZWFkRExlci1zYnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEJylyx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9ob21lL2Rhc2JlbnRlL0Rva3VtZW50ZS9JbmZvcm1hdGlrL1NjYWxhL2dpdC80Y2hhblRocmVhZERMZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
