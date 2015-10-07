@@ -1,4 +1,4 @@
-package moe.dasbente.scala
+package moe.dasbente
 import java.io.File
 import java.net.URL
 
