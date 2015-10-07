@@ -9,7 +9,7 @@
 /logs/
 /project/*-shim.sbt
 /project/.sbtserver*
-
+/.sbtserver
 #################
 ## Eclipse
 #################

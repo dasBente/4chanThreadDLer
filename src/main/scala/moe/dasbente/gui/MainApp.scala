@@ -1,9 +1,9 @@
-package moe.dasbente.scala.gui
+package moe.dasbente.gui
 
 import scala.swing._
 import scala.swing.event._
 import java.io.File
-import moe.dasbente.scala.Plunderer
+import moe.dasbente.Plunderer
 
 /**
  * @author dasBente
