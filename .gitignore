@@ -222,3 +222,4 @@ pip-log.txt
 /project/project/
 /project/target/
 /target/
+.sbtserver*
