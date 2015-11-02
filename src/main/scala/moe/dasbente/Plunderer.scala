@@ -6,22 +6,33 @@ import java.net.URL
 /**
  * @author dasBente
  */
-
 object Plunderer {
-  def plunder(url: String, dir: String, verbose: Boolean) {
-    // Locate all post images anchor tags and extract image URL's
-    val html = io.Source.fromURL(new URL(url)).mkString.split("<").toList
-    val imageTags = html filter (_ startsWith "a class=\"fileThumb\"")
-    
+	def plunder(url: String, dir: String, verbose: Boolean, 
+							crawler: URL => List[URL]) {				 
+    // Feeds the given URL into the crawler
+		val links = crawler(new URL(url))
+		
+		// Downloads the list of resulting image links
     import sys.process._
-    for (l <- imageTags) 
-      download("https:"+ l.split(" ")(2).substring(6).takeWhile(_ != '"'), dir, verbose) 
+    for (l <- links) 
+      download(l, dir, verbose) 
   }
+	
+	def plunder(url: String, dir: String, verbose: Boolean) {
+		plunder(url, dir, verbose, { url: URL =>
+			val html = io.Source.fromURL(url).mkString.split("<").toList
+			val tags = html filter (_ startsWith "a class=\"fileThumb\"")
+			
+			for (t <- tags) yield {
+				new URL("https:"+ t.split(" ")(2).substring(6).takeWhile(_ != '"'))
+			}
+		})
+	}
 	
   def plunder(url: String, dir: String) { plunder(url, dir, false) }
   def plunder(url: String) { plunder(url, ".") }
 	
-	def download(url: String, dir: String, filename: String, verbose: Boolean) {
+	def download(url: URL, dir: String, filename: String, verbose: Boolean) {
 		var path = if (dir startsWith ".") 
 			new File("").getAbsolutePath() + dir.tail
 		else if (dir startsWith "~")
@@ -38,20 +49,19 @@ object Plunderer {
 		
 		// Download File from URL to Path
 		import sys.process._
-		new URL(url) #> new File(path) !!
+		url #> new File(path) !!
 	}
 	
-	def download(url: String, dir: String, filename: String) {
+	def download(url: URL, dir: String, filename: String) {
 		download(url, dir, filename, false)
 	}
 	
-	def download(url: String, dir: String, verbose: Boolean) {
-		val filename = url.split("/").last
+	def download(url: URL, dir: String, verbose: Boolean) {
+		val filename = url.toString.split("/").last
 		download(url, dir, filename, verbose)
 	}
 	
-	def download(url: String, dir: String) { download(url, dir, false) }
-	def download(url: String, verbose: Boolean) { download(url, ".", false) }
-	def download(url: String) { download(url, ".", false) }
-	
+	def download(url: URL, dir: String) { download(url, dir, false) }
+	def download(url: URL, verbose: Boolean) { download(url, ".", false) }
+	def download(url: URL) { download(url, ".", false) }
 }
