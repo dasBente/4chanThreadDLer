@@ -1,6 +1,6 @@
 package moe.dasbente
  
-import moe.dasbente.Plunderer
+import moe.dasbente.plunderer.Plunderer
 
 object Main {
   def main(args: Array[String]) {
