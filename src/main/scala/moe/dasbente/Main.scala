@@ -3,6 +3,7 @@ package moe.dasbente
 import moe.dasbente.plunderer.Plunderer
 
 object Main {
+	import moe.dasbente.plunderer.CrawlerPreference.crawl4chan
   def main(args: Array[String]) {
     if (args.length == 0)
       printHelp() // Print help
