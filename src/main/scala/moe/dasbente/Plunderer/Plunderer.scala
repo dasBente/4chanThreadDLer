@@ -1,4 +1,4 @@
-package moe.dasbente
+package moe.dasbente.plunderer
 
 import java.io.File
 import java.net.URL
@@ -7,30 +7,18 @@ import java.net.URL
  * @author dasBente
  */
 object Plunderer {
-	def plunder(url: String, dir: String, verbose: Boolean, 
-							crawler: URL => List[URL]) {				 
-    // Feeds the given URL into the crawler
-		val links = crawler(new URL(url))
-		
-		// Downloads the list of resulting image links
-    import sys.process._
-    for (l <- links) 
-      download(l, dir, verbose) 
+	def plunder(url: String, dir: String, verbose: Boolean)
+				(implicit crawler: URL => List[URL]) {				 
+    for (l <- crawler(new URL(url))) download(l, dir, verbose) 
   }
 	
-	def plunder(url: String, dir: String, verbose: Boolean) {
-		plunder(url, dir, verbose, { url: URL =>
-			val html = io.Source.fromURL(url).mkString.split("<").toList
-			val tags = html filter (_ startsWith "a class=\"fileThumb\"")
-			
-			for (t <- tags) yield {
-				new URL("https:"+ t.split(" ")(2).substring(6).takeWhile(_ != '"'))
-			}
-		})
+  def plunder(url: String, dir: String)(implicit crawler: URL => List[URL]) { 
+		plunder(url, dir, false)(crawler)
 	}
-	
-  def plunder(url: String, dir: String) { plunder(url, dir, false) }
-  def plunder(url: String) { plunder(url, ".") }
+  
+	def plunder(url: String)(implicit crawler: URL => List[URL]) { 
+		plunder(url, ".")(crawler) 
+	}
 	
 	def download(url: URL, dir: String, filename: String, verbose: Boolean) {
 		var path = if (dir startsWith ".") 
